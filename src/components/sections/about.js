@@ -136,7 +136,7 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! I'm, a senior year Electronics and Instrumentation Engineering undergraduate student from college of Engineering Trivandrum.
+            Hello! I'm, a recent masters graduate in Robotics and Artificial intelligence from the University of Glasgow.
             </p>
 
             <p>

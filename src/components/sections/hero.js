@@ -63,8 +63,9 @@ const Hero = () => {
   const three = <h3 className="big-heading">I build ML models.</h3>;
   const four = (
     <p>
-      I'm a senior year Electronics undergrad from College of Engineering Trivandrum, passionate in the field of machine learning.
-      Currently, I'm focussed on building accessible human-centered projects
+      Recent masters graduate from the University of Glasgow 
+      with a passion for machine learning. Skilled in building accessible, human-centered projects. 
+      Open to opportunities in Data science, Data engineer, python developer, machine learning engineer and software developer
       .
     </p>
   );
