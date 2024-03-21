@@ -3,7 +3,7 @@ date: '2021-10-01'
 title: 'Intern @'
 company: 'Ignitus'
 location: 'Pennsylvania'
-range: 'Present'
+range: 'Ocober 2021-December 2021'
 url: 'http://ignitus.org'
 ---
 
