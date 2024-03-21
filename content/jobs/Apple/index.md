@@ -1,6 +1,8 @@
 ---
-company: Dhwani CET
-url: 'https://dhwanicet.org/'
+company: "University of Glasgow"
+range: "2022-2023"
+url: 'https://www.gla.ac.uk/'
 ---
 
-- Executive programme convener at Dhwani CET, which is one the biggest cultural festival in our state
+- Degree obtained: Msc with merit in robotics and artificial intelligence
+- Relevant modules covered: Machine learning, deep learning, conversational interfaces, human computer interaction, control system, cyber security
