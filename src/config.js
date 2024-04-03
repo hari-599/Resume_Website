@@ -12,7 +12,7 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/hari-s-darsan-a792271a9/',
+      url: 'https://www.linkedin.com/in/hari-s-darsan/',
     },
   ],
 

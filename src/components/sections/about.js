@@ -126,7 +126,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Python', 'flutter', 'C', 'SQL','JAVA'];
+  const skills = ['Python', 'flutter', 'C', 'SQL','Java'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
