@@ -159,6 +159,7 @@ const About = () => {
               className="img"
               src="../../images/darsan.jpg"
               width={500}
+              height={665}
               quality={95}
               formats={['AUTO', 'WEBP', 'AVIF']}
               alt="Headshot"
