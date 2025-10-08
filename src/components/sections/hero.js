@@ -63,10 +63,7 @@ const Hero = () => {
   const three = <h3 className="big-heading">I build ML models.</h3>;
   const four = (
     <p>
-      Recent masters graduate from the University of Glasgow 
-      with a passion for machine learning. Skilled in building accessible, human-centered projects. 
-      Open to opportunities in Data science, Data engineer, python developer, machine learning engineer and software developer
-      .
+     Recent Master’s graduate from the University of Glasgow with a passion for machine learning. Skilled in building accessible, human-centered projects and developing scalable solutions through freelance Python and web development work. Open to opportunities in data science, data engineering, Python development, machine learning engineering, and software development.
     </p>
   );
   const five = (
