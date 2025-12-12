@@ -1,6 +1,6 @@
-# [Your Name] - Portfolio Website
+# Hari Sudarsan - Portfolio Website
 
-This is the source code for my personal portfolio website, hosted at [your-website-url.com](https://your-website-url.com).
+This is the source code for my personal portfolio website, hosted at [https://harisdarsan.netlify.app/](https://harisdarsan.netlify.app/).
 
 It showcases my academic background, projects, and skills in AI/Robotics and Web Development.
 
