@@ -7,8 +7,8 @@ module.exports = {
       url: 'https://github.com/hari-599',
     },
     {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/___h___s___d/',
+      name: 'Medium',
+      url: 'https://medium.com/@harisdarsan_52271',
     },
     {
       name: 'Linkedin',
@@ -23,10 +23,18 @@ module.exports = {
     },
     {
       name: 'Experience',
-      url: '/#jobs',
+      url: '/#experience',
     },
     {
-      name: 'Work',
+      name: 'Skills',
+      url: '/#skills',
+    },
+    {
+      name: 'Education',
+      url: '/#education',
+    },
+    {
+      name: 'Projects',
       url: '/#projects',
     },
     {

@@ -10,7 +10,7 @@ const StyledHeroSection = styled.section`
   flex-direction: column;
   align-items: flex-start;
   min-height: 100vh;
-  padding: 0;
+  padding: 100px 0 0;
 
   @media (max-width: 480px) and (min-height: 700px) {
     padding-bottom: 10vh;
@@ -60,10 +60,17 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Hari Sudarsan.</h2>;
-  const three = <h3 className="big-heading">I build ML models.</h3>;
-  const four = (
+  const three = <h3 className="big-heading">I build machine learning systems.</h3>;
+  /* const four = (
     <p>
      Recent Master’s graduate from the University of Glasgow with a passion for machine learning. Skilled in building accessible, human-centered projects and developing scalable solutions through freelance Python and web development work. Open to opportunities in data science, data engineering, Python development, machine learning engineering, and software development.
+    </p>
+  ); */
+  const summary = (
+    <p>
+      Applied Machine Learning Engineer with an MSc in Robotics and AI from the University of
+      Glasgow. I build end-to-end ML pipelines, data-driven systems, and backend-integrated
+      applications using Python, PyTorch, and production-oriented MLOps workflows.
     </p>
   );
   const five = (
@@ -72,7 +79,7 @@ const Hero = () => {
     </a>
   );
 
-  const items = [one, two, three, four, five];
+  const items = [one, two, three, summary, five];
 
   return (
     <StyledHeroSection>

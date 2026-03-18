@@ -2,9 +2,9 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Hari S Darsan',
+    title: 'Hari Sudarsan',
     description:
-      'Hari S Darsan is a BTech student who specializes in building machine learning models.',
+      'Hari Sudarsan is an applied machine learning engineer who specializes in building deployable machine learning systems.',
     siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@bchiang7',

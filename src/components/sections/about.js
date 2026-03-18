@@ -126,8 +126,6 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Python', 'flutter', 'C', 'SQL','Java'];
-
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
       <h2 className="numbered-heading">About Me</h2>
@@ -136,21 +134,21 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-            Hello! I'm, a recent masters graduate in Robotics and Artificial intelligence from the University of Glasgow.
+              Hello! I'm Hari, an applied machine learning engineer with an MSc in Robotics and
+              Artificial Intelligence from the University of Glasgow.
             </p>
 
             <p>
-            I enjoy creating things that live on the internet. My
-              extreme passion for mathematics and programming brings me to the domain of
-              machine learning. 
+              I enjoy turning practical problems into machine learning systems, from data
+              preprocessing and model training to evaluation, deployment, and backend integration.
             </p>
 
-            <p>Here are a few technologies I've been working with recently:</p>
+            <p>
+              The pace of artificial intelligence is shifting from experimentation to deployment
+              faster than ever. My work sits directly in that transition, building transformer-based
+              and machine learning systems that are not only rigorously tested but also deployable.
+            </p>
           </div>
-
-          <ul className="skills-list">
-            {skills && skills.map((skill, i) => <li key={i}>{skill}</li>)}
-          </ul>
         </StyledText>
 
         <StyledPic>
