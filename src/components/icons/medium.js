@@ -5,10 +5,16 @@ const IconMedium = () => (
     xmlns="http://www.w3.org/2000/svg"
     role="img"
     viewBox="0 0 24 24"
-    fill="currentColor"
+    fill="none"
+    stroke="currentColor"
+    strokeWidth="2"
+    strokeLinecap="round"
+    strokeLinejoin="round"
     className="feather feather-medium">
     <title>Medium</title>
-    <path d="M13.54 12c0 3.34-2.69 6.05-6 6.05S1.54 15.34 1.54 12s2.69-6.05 6-6.05 6 2.71 6 6.05zm6.59 0c0 3.15-1.35 5.7-3 5.7s-3-2.55-3-5.7 1.35-5.7 3-5.7 3 2.55 3 5.7zm2.33 0c0 2.82-.47 5.1-1.04 5.1s-1.04-2.28-1.04-5.1.47-5.1 1.04-5.1 1.04 2.28 1.04 5.1z" />
+    <rect x="3" y="3" width="18" height="18" rx="4" />
+    <path d="M7.5 16V8l3 5 3-5v8" />
+    <path d="M18 15.25a2.25 2.25 0 1 1 0-4.5h-2.25v4.5H18z" />
   </svg>
 );
 

@@ -7,12 +7,12 @@ module.exports = {
       url: 'https://github.com/hari-599',
     },
     {
-      name: 'Medium',
-      url: 'https://medium.com/@hari_s_darsan',
-    },
-    {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/hari-s-darsan/',
+    },
+    {
+      name: 'Medium',
+      url: 'https://medium.com/@hari_s_darsan',
     },
   ],
 
