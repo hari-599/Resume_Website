@@ -8,7 +8,7 @@ module.exports = {
     },
     {
       name: 'Medium',
-      url: 'https://medium.com/@harisdarsan_52271',
+      url: 'https://medium.com/@hari_s_darsan',
     },
     {
       name: 'Linkedin',
