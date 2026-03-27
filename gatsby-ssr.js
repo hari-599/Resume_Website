@@ -4,4 +4,25 @@
  * See: https://www.gatsbyjs.org/docs/ssr-apis/
  */
 
- // You can delete this file if you're not using it
+const React = require('react');
+
+exports.onRenderBody = ({ setHeadComponents }) => {
+  setHeadComponents([
+    React.createElement('script', {
+      key: 'google-tag-manager-src',
+      async: true,
+      src: 'https://www.googletagmanager.com/gtag/js?id=G-QSKN3FWD9N',
+    }),
+    React.createElement('script', {
+      key: 'google-tag-manager-inline',
+      dangerouslySetInnerHTML: {
+        __html: `
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-QSKN3FWD9N');
+        `,
+      },
+    }),
+  ]);
+};
